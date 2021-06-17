@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "WEB DEVELOPMENT",
+      "body": "Source. Now, a Full Stack Developer is a software expert who's equally proficient in frontend (client-side) development and backend (server-side) development. Full Stack Developers are familiar with each layer of tech stacks that go into the making of a software product.",
+      "author": "mario",
+      "id": 1
+    }
+  ]
+}
