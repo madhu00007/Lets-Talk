@@ -5,6 +5,12 @@
       "body": "Source. Now, a Full Stack Developer is a software expert who's equally proficient in frontend (client-side) development and backend (server-side) development. Full Stack Developers are familiar with each layer of tech stacks that go into the making of a software product.",
       "author": "mario",
       "id": 1
+    },
+    {
+      "title": "DevOps",
+      "body": "DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.",
+      "author": "yoshi",
+      "id": 2
     }
   ]
 }
