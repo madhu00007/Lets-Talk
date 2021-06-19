@@ -1,9 +1,9 @@
 {
-  "homepage": "http://madhu00007.github.io/LetsTalk",
   "name": "lets-talk",
   "version": "0.1.0",
   "engines": {
     "node": "15.8.0"
+  }
   },
   "private": true,
   "dependencies": {
@@ -17,8 +17,6 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
